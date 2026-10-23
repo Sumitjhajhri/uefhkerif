@@ -1,1 +1,0 @@
-"""Agent evaluation harness."""
