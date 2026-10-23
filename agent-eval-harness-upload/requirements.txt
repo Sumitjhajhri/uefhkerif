@@ -1,0 +1,9 @@
+# Core. The harness, the retriever and the whole test suite run on these alone,
+# offline and at no cost.
+numpy>=1.26
+scikit-learn>=1.4
+PyYAML>=6.0
+pytest>=8.0
+
+# Only needed for a live run against a real model.
+anthropic>=0.40
